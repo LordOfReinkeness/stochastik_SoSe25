@@ -1,0 +1,366 @@
+﻿Zeit;Raeder;stadteinwaerts;stadtauswaerts;Symbol Wetter;Temperatur;Luftfeuchtigkeit;Wolken;GefuehlteTemperatur;Regen;Schnee;Wind;MinTemperatu;MaxTemperatur;Quelle
+01.01.2023 00:00;2727;1275;1452;Bedeckt;8.5;77;28;6;0;0;5;5;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.01.2023 00:00;4799;2363;2436;Sonnig;8;82;21;6;0;0;4;5;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.01.2023 00:00;4216;2052;2164;Nieselregen;6.5;88;54;7;1.1;0;4;3;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.01.2023 00:00;5371;2658;2713;Leichter Nebel;5.5;89;37;4;0;0;7;2;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.01.2023 00:00;5581;2711;2870;Nieselregen;8;84;79;6;0.9;0;11;7;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.01.2023 00:00;3288;1655;1633;Bewoelkt;7;88;37;6;0;0;4;4;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.01.2023 00:00;5247;2580;2667;Bedeckt;6;82;46;5;0;0;2;3;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.01.2023 00:00;2408;1157;1251;Bedeckt;4.5;79;66;3;0.1;0;5;2;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.01.2023 00:00;8879;4389;4490;Leichter Regenfall;4.5;87;79;2;3.4;0;15;2;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.01.2023 00:00;9890;4866;5024;Maeßige bis starke Schneefaelle;3;83;81;0;0.3;0.3;14;1;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.01.2023 00:00;9435;4675;4760;Nieselregen;4;76;64;3;0.6;0;10;0;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.01.2023 00:00;10001;4890;5111;Nieselregen;6;88;95;2;1.5;0;19;5;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.01.2023 00:00;8791;4324;4467;Nieselregen;6;81;91;3;0.9;0;17;4;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.01.2023 00:00;6108;3057;3051;Bedeckt;4;81;66;2;0.2;0;8;2;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.01.2023 00:00;2959;1381;1578;Starker Schneefall;4.5;78;69;2;1.6;0.6;16;1;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.01.2023 00:00;8820;4336;4484;Leichter Schneefall;1;81;45;-1;0;0;7;-1;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.01.2023 00:00;9371;4666;4705;Bedeckt;1.5;79;63;-1;0.3;0.3;7;-1;4;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.01.2023 00:00;9015;4462;4553;Maeßige bis starke Schneefaelle;-2.5;85;60;-4;0.8;0.7;7;-6;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.01.2023 00:00;9341;4609;4732;Leichter Schneefall;-3.5;90;81;-5;0.1;0.1;4;-7;0;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.01.2023 00:00;8594;4278;4316;Maeßige bis starke Schneefaelle;-3.5;91;89;-5;1;0.9;4;-7;0;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.01.2023 00:00;4482;2213;2269;Leichte Schneeschauer;-2;82;78;-6;0.2;0.2;14;-5;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.01.2023 00:00;2651;1230;1421;Maeßiger Schneefall;-2;88;86;-4;0.3;0.3;5;-4;0;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.01.2023 00:00;8328;4100;4228;Stellenweise leichter Schneefall;-1.5;84;76;-6;0;0;11;-4;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.01.2023 00:00;9339;4555;4784;Leichter Schneefall;0.5;88;76;-3;0;0;10;-1;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.01.2023 00:00;9057;4422;4635;Bedeckt;0;87;72;-3;0;0;7;-3;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.01.2023 00:00;9328;4553;4775;Bedeckt;0.5;80;90;-1;0;0;4;-1;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.01.2023 00:00;8318;4121;4197;Leichte Schneeschauer;-1;84;69;-6;0;0;13;-3;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.01.2023 00:00;5148;2499;2649;Leichter Schneefall;-1.5;82;84;-5;0;0;12;-4;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.01.2023 00:00;3142;1499;1643;Bewoelkt;-2;86;30;-5;0;0;4;-6;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.01.2023 00:00;8454;4225;4229;Starker Schneefall;-1;85;56;-5;1.1;0.9;14;-6;4;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+31.01.2023 00:00;9136;4454;4682;Maeßige bis starke Schneefaelle;1.5;86;55;-2;0.4;0.3;11;0;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.02.2023 00:00;8848;4344;4504;Starker Schneefall;1.5;86;87;-3;3.9;1.2;17;0;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.02.2023 00:00;9043;4452;4591;Stellenweiser Regenfall;3.5;86;100;-1;0.4;0;21;2;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.02.2023 00:00;8662;4306;4356;Bewoelkt;4.5;81;52;2;0;0;11;1;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.02.2023 00:00;4833;2381;2452;Stellenweiser Regenfall;4;88;100;4;0.2;0;4;3;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.02.2023 00:00;2730;1304;1426;Starker Schneefall;3;87;83;1;0.8;0.7;7;0;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.02.2023 00:00;8726;4288;4438;Leichte Schneeschauer;1;80;53;-3;0.4;0.3;12;-2;4;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.02.2023 00:00;8971;4405;4566;Bedeckt;-2;80;18;-5;0;0;7;-6;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.02.2023 00:00;8914;4343;4571;Leicht bewoelkt;-2;76;8;-7;0;0;13;-5;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.02.2023 00:00;9032;4362;4670;Sonnig;0;66;6;-4;0;0;5;-5;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.02.2023 00:00;8984;4383;4601;Leicht bewoelkt;0;70;16;-3;0;0;4;-5;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.02.2023 00:00;5528;2690;2838;Leicht bewoelkt;2.5;69;15;0;0;0;3;-3;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.02.2023 00:00;3852;1826;2026;Sonnig;3.5;77;3;0;0;0;6;-2;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.02.2023 00:00;8726;4343;4383;Leicht bewoelkt;3.5;86;17;2;0;0;2;-3;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.02.2023 00:00;9230;4516;4714;Sonnig;5.5;83;4;3;0;0;3;-1;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.02.2023 00:00;9184;4502;4682;Sonnig;6.5;78;0;5;0;0;2;-1;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.02.2023 00:00;6924;3503;3421;Bedeckt;6;77;36;4;0;0;6;0;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.02.2023 00:00;5651;2700;2951;Bewoelkt;6.5;82;36;4;0;0;8;0;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.02.2023 00:00;4930;2445;2485;Leichter Nebel;9;87;47;7;0;0;11;5;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.02.2023 00:00;4203;2013;2190;Bewoelkt;7.5;80;49;6;0;0;14;4;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.02.2023 00:00;5976;3004;2972;Leichter Nebel;7.5;81;40;6;0;0;2;2;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.02.2023 00:00;7093;3446;3647;Sonnig;8.5;76;18;7;0;0;2;2;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.02.2023 00:00;7156;3520;3636;Bedeckt;7;82;45;6;0.1;0;4;2;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.02.2023 00:00;7015;3367;3648;Leichter Nebel;9;84;55;8;0.2;0;3;5;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.02.2023 00:00;6710;3262;3448;Leichter Regenschauer;8;85;57;6;0.3;0;7;3;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.02.2023 00:00;4567;2218;2349;Bewoelkt;3;75;61;2;0.8;0;8;-1;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.02.2023 00:00;2275;1105;1170;Leichte Schneeschauer;0.5;68;63;-5;0;0;20;-2;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.02.2023 00:00;7041;3485;3556;Leichter Schneefall;0;64;59;-7;0;0;26;-3;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.02.2023 00:00;7854;3884;3970;Bedeckt;1.5;69;32;-4;0;0;14;-4;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.03.2023 00:00;8063;3930;4133;Bedeckt;1.5;78;58;-4;0;0;12;-4;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.03.2023 00:00;8242;4041;4201;Bedeckt;2;81;92;0;0;0;5;-1;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.03.2023 00:00;9438;4655;4783;Bedeckt;4.5;80;81;3;0;0;3;2;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.03.2023 00:00;5462;2688;2774;Sonnig;4.5;71;36;3;0;0;5;-1;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.03.2023 00:00;3661;1724;1937;Leichter Nebel;3;75;50;1;0;0;3;-2;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.03.2023 00:00;8271;4133;4138;Bedeckt;3.5;73;68;0;0;0;8;-1;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.03.2023 00:00;9066;4446;4620;Leichter Nebel;3.5;73;46;-1;0;0;11;-2;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.03.2023 00:00;8001;3907;4094;Stellenweise maeßiger Schneefall;4;87;81;2;20.8;0.2;16;-2;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.03.2023 00:00;8693;4214;4479;Leichter Regenschauer;10;77;58;8;26.6;0;19;6;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.03.2023 00:00;6563;3211;3352;Leichter Regenschauer;6.5;81;85;3;9.3;0;24;3;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.03.2023 00:00;5115;2498;2617;Maeßige bis starke Schneefaelle;2.5;84;92;1;5.1;3;8;0;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.03.2023 00:00;3140;1463;1677;Leichter Eisregen;5.5;93;81;3;6;0.5;11;1;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.03.2023 00:00;10522;5169;5353;Bedeckt;9;83;58;6;7.8;0;7;1;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.03.2023 00:00;9362;4583;4779;Leichter Regenschauer;5.5;84;80;3;14.2;0.1;22;2;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.03.2023 00:00;10494;5090;5404;Maeßige bis starke Schneefaelle;1.5;76;58;-1;2.8;0.5;10;-2;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.03.2023 00:00;10673;5194;5479;Bedeckt;5;77;55;3;0;0;4;-1;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.03.2023 00:00;10139;4974;5165;Sonnig;8.5;71;12;7;0;0;3;1;16;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.03.2023 00:00;7277;3528;3749;Leicht bewoelkt;10.5;75;13;10;0;0;2;3;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.03.2023 00:00;4035;1903;2132;Leichter Regenschauer;9;86;67;8;8.8;0;4;5;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.03.2023 00:00;10449;5095;5354;Leichter Nebel;10;80;50;9;0;0;5;5;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.03.2023 00:00;11477;5605;5872;Leicht bewoelkt;8.5;78;24;8;0;0;5;2;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.03.2023 00:00;13218;6524;6694;Leichter Nebel;9.5;75;45;9;0;0;7;3;16;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.03.2023 00:00;10894;5240;5654;Bedeckt;10;84;84;10;4.2;0;5;7;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.03.2023 00:00;6985;3410;3575;Maeßiger Regenfall;8.5;91;82;7;9.6;0;10;5;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.03.2023 00:00;5027;2520;2507;Leichter Regenschauer;7.5;86;92;4;6.4;0;17;5;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.03.2023 00:00;2733;1295;1438;Maeßiger Regenfall;6;87;83;4;12.6;0;10;3;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.03.2023 00:00;9275;4560;4715;Maeßige bis starke Schneefaelle;2.5;80;88;0;4.4;0.9;13;-1;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.03.2023 00:00;10305;4994;5311;Bedeckt;3.5;67;46;1;0;0;5;-3;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.03.2023 00:00;10427;5111;5316;Bedeckt;9.5;70;62;8;0;0;5;2;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.03.2023 00:00;9684;4718;4966;Maeßiger Regenfall;10;87;84;9;9.8;0;10;6;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+31.03.2023 00:00;7590;3757;3833;Leichter Regenschauer;9.5;88;93;7;17.5;0;18;6;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.04.2023 00:00;5009;2427;2582;Leichter Regenfall;6;92;100;2;9.8;0;20;5;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.04.2023 00:00;4355;2086;2269;Maeßige bis starke Schneefaelle;2.5;96;95;0;16.1;1.6;12;0;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.04.2023 00:00;9778;4825;4953;Maeßige bis starke Schneefaelle;3;80;71;-1;1.8;0.2;17;-1;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.04.2023 00:00;10664;5114;5550;Sonnig;4.5;55;2;-1;0;0;20;-2;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.04.2023 00:00;9265;4525;4740;Sonnig;3;59;16;0;0;0;8;-4;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.04.2023 00:00;8774;4302;4472;Sonnig;4;62;22;4;0;0;3;-4;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.04.2023 00:00;3581;1681;1900;Leichter Regenschauer;3;94;84;2;30.2;2.9;4;0;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.04.2023 00:00;4408;2149;2259;Leichter Regenschauer;5.5;93;93;5;6.5;0;3;3;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.04.2023 00:00;3771;1847;1924;Stellenweiser Regenfall;6.5;77;47;5;0.5;0;7;1;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.04.2023 00:00;4541;2159;2382;Bedeckt;6.5;71;39;7;0;0;5;-2;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.04.2023 00:00;6965;3428;3537;Leichter Regenschauer;8.5;81;92;6;3.4;0;15;6;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.04.2023 00:00;7133;3537;3596;Leichter Regenschauer;12.5;84;88;8;5.5;0;12;6;19;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.04.2023 00:00;8214;4040;4174;Stellenweiser Regenfall;5;77;92;3;3;0;10;1;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.04.2023 00:00;9510;4706;4804;Leichter Regenschauer;6;83;69;4;4.9;0;4;1;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.04.2023 00:00;6522;3160;3362;Bewoelkt;6.5;73;35;6;0.1;0;6;-1;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.04.2023 00:00;2288;1090;1198;Maeßiger Regenfall;6;98;100;5;22.1;0;5;5;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.04.2023 00:00;10468;5114;5354;Leichter Regenschauer;8;90;90;5;5.7;0;10;5;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.04.2023 00:00;12314;5980;6334;Leichter Regenschauer;9;88;94;6;1.3;0;16;7;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.04.2023 00:00;11666;5694;5972;Leichter Regenschauer;7;85;98;5;6;0;12;3;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.04.2023 00:00;9106;4494;4612;Starker Schneefall;3.5;97;100;2;18.3;1.1;6;2;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.04.2023 00:00;11629;5724;5905;Nebel;10.5;78;60;9;1.5;0;6;3;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.04.2023 00:00;9350;4674;4676;Leichter Nebel;12.5;74;56;11;0.1;0;8;5;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.04.2023 00:00;5323;2476;2847;Maeßiger Regenfall;13;80;70;11;13;0;8;8;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.04.2023 00:00;11027;5291;5736;Leichter Regenschauer;9;86;93;6;9.5;0;16;7;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.04.2023 00:00;10162;4925;5237;Leichter Regenschauer;7;88;85;6;13;0;6;4;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.04.2023 00:00;12286;5963;6323;Leichter Regenschauer;7.5;85;92;7;4.7;0;4;2;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.04.2023 00:00;12813;6146;6667;Leichter Nebel;10;76;61;10;0.1;0;4;3;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.04.2023 00:00;6878;3321;3557;Maeßiger Regenfall;9.5;94;91;9;12.8;0;6;6;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.04.2023 00:00;8839;4312;4527;Bedeckt;14;86;78;13;3.7;0;4;8;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.04.2023 00:00;6792;3227;3565;Stellenweiser Regenfall;10.5;80;63;10;0.3;0;9;6;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.05.2023 00:00;3086;1445;1641;Leichter Regenschauer;10.5;81;85;10;1.4;0;5;7;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.05.2023 00:00;11821;5691;6130;Stellenweiser Regenfall;11.5;78;47;11;1.7;0;7;5;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.05.2023 00:00;14355;7016;7339;Leichter Nebel;10;75;38;8;0;0;12;2;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.05.2023 00:00;14721;7200;7521;Bewoelkt;13;76;17;12;0;0;5;3;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.05.2023 00:00;12445;6172;6273;Nieselregen mit Gewitter;15;81;44;14;1.4;0;5;8;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.05.2023 00:00;10203;4796;5407;Nieselregen mit Gewitter;16.5;81;61;15;1.5;0;4;10;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.05.2023 00:00;6675;3212;3463;Leichter Regenschauer;15;85;56;14;9;0;5;8;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.05.2023 00:00;11134;5394;5740;Leichter Regenschauer;12;96;86;12;17.7;0;4;9;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.05.2023 00:00;12974;6408;6566;Leichter Regenschauer;15.5;87;89;14;12.6;0;5;10;21;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.05.2023 00:00;12764;6151;6613;Leichter Regenschauer;10.5;91;87;10;30.7;0;8;8;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.05.2023 00:00;10706;5155;5551;Leichter Regenschauer;9;91;95;9;2.2;0;3;7;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.05.2023 00:00;12665;6179;6486;Leichter Regenschauer;10.5;90;86;10;9.6;0;5;6;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.05.2023 00:00;8246;3938;4308;Stellenweiser Regenfall;9.5;85;94;9;0.2;0;7;5;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.05.2023 00:00;4368;2179;2189;Stellenweiser Regenfall;12.5;83;68;11;1;0;9;8;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.05.2023 00:00;11232;5457;5775;Leichter Regenschauer;10.5;85;61;10;4.4;0;5;4;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.05.2023 00:00;11034;5387;5647;Leichter Regenschauer;9.5;82;84;8;3.2;0;14;6;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.05.2023 00:00;13177;6346;6831;Stellenweiser Regenfall;8.5;67;77;6;0.1;0;16;5;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.05.2023 00:00;7016;3473;3543;Bewoelkt;9.5;65;40;9;0;0;16;3;16;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.05.2023 00:00;10475;5008;5467;Bedeckt;11;73;79;9;0;0;15;6;16;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.05.2023 00:00;9439;4564;4875;Stellenweiser Regenfall;13;84;91;12;0.4;0;9;10;16;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.05.2023 00:00;8148;4074;4074;Stellenweiser Regenfall;16.5;82;60;16;7.1;0;4;9;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.05.2023 00:00;14358;7110;7248;Nieselregen mit Gewitter;17.5;85;70;17;10.5;0;4;10;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.05.2023 00:00;12420;6037;6383;Maeßiger bis starker Regenschauer;14;94;84;14;8.2;0;4;11;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.05.2023 00:00;11755;5733;6022;Stellenweiser Regenfall;12;80;72;12;1.1;0;8;9;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.05.2023 00:00;13877;6785;7092;Nieselregen;12.5;75;64;13;0.9;0;13;5;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.05.2023 00:00;13498;6592;6906;Bewoelkt;16.5;74;42;15;0.2;0;12;11;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.05.2023 00:00;10648;5217;5431;Bewoelkt;15;73;31;15;0;0;12;8;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.05.2023 00:00;8193;3934;4259;Sonnig;15;71;5;14;0;0;12;7;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.05.2023 00:00;7950;3874;4076;Leicht bewoelkt;15.5;70;11;15;0;0;14;8;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.05.2023 00:00;11250;5437;5813;Bewoelkt;15;73;32;15;0;0;13;9;21;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+31.05.2023 00:00;11680;5839;5841;Leicht bewoelkt;15.5;66;16;15;0;0;19;9;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.06.2023 00:00;11653;5615;6038;Leicht bewoelkt;16;71;22;16;0;0;8;8;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.06.2023 00:00;11726;5885;5841;Leicht bewoelkt;17.5;71;17;17;0;0;8;10;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.06.2023 00:00;9714;4630;5084;Bewoelkt;15.5;75;43;15;0;0;11;8;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.06.2023 00:00;8210;3923;4287;Stellenweiser Regenfall;15;72;35;15;0.8;0;11;8;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.06.2023 00:00;11008;5425;5583;Leicht bewoelkt;16;71;19;16;0.1;0;10;8;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.06.2023 00:00;11782;5809;5973;Leichter Nebel;16.5;70;37;16;0.1;0;8;9;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.06.2023 00:00;12099;6031;6068;Stellenweise Gewitter und Niederschlaege;17;70;24;16;0.6;0;5;8;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.06.2023 00:00;8148;3915;4233;Stellenweise Gewitter und Niederschlaege;19;71;25;17;0;0;5;9;29;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.06.2023 00:00;11749;5776;5973;Leicht bewoelkt;19.5;67;14;19;0;0;7;9;30;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.06.2023 00:00;10061;4895;5166;Leicht bewoelkt;18.5;71;24;18;0;0;8;11;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.06.2023 00:00;8002;3855;4147;Leichter Nebel;18;77;43;18;0.1;0;12;12;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.06.2023 00:00;15345;7669;7676;Leicht bewoelkt;17.5;65;13;17;0;0;16;11;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.06.2023 00:00;16832;8218;8614;Sonnig;16;60;1;15;0;0;16;8;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.06.2023 00:00;16599;8091;8508;Sonnig;15.5;61;7;15;0;0;11;7;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.06.2023 00:00;15908;7709;8199;Leicht bewoelkt;15.5;66;26;16;0;0;8;8;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.06.2023 00:00;15220;7535;7685;Stellenweise Gewitter und Niederschlaege;17;65;32;16;0.1;0;4;9;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.06.2023 00:00;10861;5636;5225;Leicht bewoelkt;19;62;20;18;0;0;3;9;29;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.06.2023 00:00;7371;3280;4091;Sonnig;20.5;60;12;21;0;0;3;10;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.06.2023 00:00;13918;6863;7055;Leichter Regenschauer;23.5;67;27;23;0.8;0;5;14;33;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.06.2023 00:00;15039;7282;7757;Leichter Regenschauer;23.5;76;41;23;21.2;0;6;15;32;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.06.2023 00:00;14790;7304;7486;Stellenweise Gewitter und Niederschlaege;23.5;71;36;23;1.5;0;4;14;33;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.06.2023 00:00;14179;6917;7262;Leichter Regenschauer;23.5;76;42;22;11.4;0;8;16;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.06.2023 00:00;14258;7083;7175;Leicht bewoelkt;18;69;29;18;0.2;0;14;12;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.06.2023 00:00;11944;5980;5964;Sonnig;18.5;64;5;18;0;0;12;10;27;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.06.2023 00:00;9125;4286;4839;Sonnig;21;61;3;20;0;0;7;11;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.06.2023 00:00;14848;7285;7563;Bewoelkt;21.5;64;22;21;0.1;0;6;12;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.06.2023 00:00;15925;7793;8132;Leicht bewoelkt;19;51;27;19;0.1;0;5;12;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.06.2023 00:00;15990;7858;8132;Bedeckt;16;68;49;15;0;0;5;11;21;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.06.2023 00:00;15694;7756;7938;Leicht bewoelkt;20.5;65;25;20;0;0;4;10;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.06.2023 00:00;10670;5204;5466;Maeßiger bis starker Regenschauer;14.5;95;85;16;24.9;0;6;11;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.07.2023 00:00;10778;5409;5369;Leichter Regenfall;18;82;70;15;6.6;0;10;13;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.07.2023 00:00;7470;3606;3864;Stellenweiser Regenfall;18;74;70;18;0.3;0;12;13;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.07.2023 00:00;14109;6967;7142;Leicht bewoelkt;20;60;35;19;0.1;0;12;14;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.07.2023 00:00;15028;7434;7594;Leichter Regenschauer;18;69;57;18;3.5;0;6;11;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.07.2023 00:00;12782;6392;6390;Leichter Regenschauer;18;74;70;17;3;0;10;12;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.07.2023 00:00;15964;7855;8109;Stellenweise Gewitter und Niederschlaege;18.5;58;25;18;0.1;0;4;8;29;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.07.2023 00:00;16445;8353;8092;Sonnig;21.5;58;5;21;0;0;4;10;33;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.07.2023 00:00;11985;5740;6245;Leicht bewoelkt;24;55;18;23;0;0;4;13;35;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.07.2023 00:00;8781;4166;4615;Leicht bewoelkt;26;55;9;25;0;0;3;15;37;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.07.2023 00:00;13542;6707;6835;Stellenweiser Regenfall;25.5;65;19;25;0.8;0;7;16;35;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.07.2023 00:00;15865;7716;8149;Leicht bewoelkt;27;66;30;25;10;0;5;16;38;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.07.2023 00:00;10998;5468;5530;Nieselregen mit Gewitter;21;79;75;21;16.5;0;10;15;27;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.07.2023 00:00;14206;7111;7095;Leichter Regenschauer;19.5;74;45;18;8.2;0;6;13;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.07.2023 00:00;16010;7883;8127;Leicht bewoelkt;21;56;8;21;0;0;3;10;32;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.07.2023 00:00;11697;5682;6015;Sonnig;26.5;60;15;25;0.9;0;6;14;39;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.07.2023 00:00;8104;3917;4187;Leichter Regenschauer;21.5;83;72;20;4;0;4;16;27;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.07.2023 00:00;15159;7486;7673;Leichter Regenschauer;22;74;51;21;2.3;0;7;14;30;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.07.2023 00:00;14831;7333;7498;Nieselregen mit Gewitter;23.5;64;41;22;12.4;0;4;12;35;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.07.2023 00:00;15981;7890;8091;Teilweise maeßiger Regenfall;23;66;51;22;5.4;0;11;15;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.07.2023 00:00;16023;7739;8284;Bewoelkt;21.5;60;42;20;0.4;0;6;12;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.07.2023 00:00;13557;6744;6813;Maeßiger bis starker Regenschauer;18;73;68;17;15;0;5;11;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.07.2023 00:00;12384;6043;6341;Stellenweiser Regenfall;18.5;68;56;18;2.9;0;7;12;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.07.2023 00:00;8263;3998;4265;Bedeckt;21;59;22;20;0;0;9;11;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.07.2023 00:00;9194;4524;4670;Maeßiger bis starker Regen mit Gewitter;19.5;86;67;18;41.9;0;9;13;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.07.2023 00:00;11156;5506;5650;Leichter Regenschauer;18;78;62;17;10.1;0;13;12;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.07.2023 00:00;12429;6226;6203;Leichter Regenschauer;15;74;58;14;1.2;0;7;9;21;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.07.2023 00:00;13025;6324;6701;Bewoelkt;17;70;34;16;0;0;6;8;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.07.2023 00:00;11456;5776;5680;Stellenweiser Regenfall;19;74;38;19;0.5;0;9;12;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.07.2023 00:00;7857;3812;4045;Leichter Regenschauer;17.5;88;70;17;11.3;0;9;13;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.07.2023 00:00;7248;3353;3895;Maeßiger bis starker Regenschauer;19;74;57;18;16.7;0;11;13;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+31.07.2023 00:00;11565;5710;5855;Leicht bewoelkt;17;67;19;17;0;0;8;9;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.08.2023 00:00;7717;3802;3915;Leichter Regenschauer;15;90;66;15;12.2;0;13;12;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.08.2023 00:00;9986;4836;5150;Leichter Nebel;19.5;79;65;18;3.8;0;14;10;29;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.08.2023 00:00;12076;5921;6155;Leicht bewoelkt;18;62;19;18;0.3;0;18;12;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.08.2023 00:00;9899;4902;4997;Maeßiger bis starker Regenschauer;14.5;85;66;15;13.6;0;6;10;19;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.08.2023 00:00;8284;3959;4325;Stellenweiser Regenfall;16.5;72;42;16;0.3;0;7;10;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.08.2023 00:00;3404;1701;1703;Leichter Regenfall;11.5;88;82;9;3.7;0;18;9;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.08.2023 00:00;7812;3808;4004;Leichter Regenschauer;13;75;69;12;2.6;0;11;7;19;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.08.2023 00:00;11008;5440;5568;Leichter Nebel;14.5;69;21;14;0;0;7;6;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.08.2023 00:00;9825;4818;5007;Bedeckt;18;67;46;17;0;0;6;12;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.08.2023 00:00;12103;5884;6219;Sonnig;19;72;16;19;0;0;3;11;27;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.08.2023 00:00;12109;5941;6168;Sonnig;20.5;67;9;20;0;0;3;12;29;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.08.2023 00:00;12681;6018;6663;Sonnig;22.5;70;27;22;5.6;0;5;14;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.08.2023 00:00;7664;3572;4092;Stellenweiser Regenfall;22;76;30;22;2;0;5;15;29;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.08.2023 00:00;10399;5102;5297;Leichter Nebel;24;75;41;23;1.1;0;5;16;32;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.08.2023 00:00;10930;5402;5528;Stellenweise Gewitter und Niederschlaege;22.5;78;44;21;4.3;0;4;16;29;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.08.2023 00:00;10889;5285;5604;Nieselregen mit Gewitter;24;74;34;22;3.1;0;4;16;32;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.08.2023 00:00;10238;4916;5322;Nieselregen mit Gewitter;23.5;80;54;21;22.9;0;4;16;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.08.2023 00:00;1801;1022;779;Sonnig;22.5;69;14;22;0;0;4;14;31;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.08.2023 00:00;0;0;0;Sonnig;24.5;63;8;24;0;0;3;15;34;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.08.2023 00:00;0;0;0;Sonnig;25.5;60;5;25;0;0;4;17;34;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.08.2023 00:00;0;0;0;Leichter Nebel;25.5;69;12;26;0;0;3;18;33;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.08.2023 00:00;8302;3893;4409;Sonnig;26;71;18;25;0.6;0;5;18;34;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.08.2023 00:00;10450;5102;5348;Sonnig;25;74;31;24;4;0;4;17;33;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.08.2023 00:00;10049;4824;5225;Sonnig;24.5;69;15;24;0.3;0;4;16;33;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.08.2023 00:00;7720;3769;3951;Stellenweise Gewitter und Niederschlaege;23;75;42;23;14.8;0;7;16;30;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.08.2023 00:00;5323;2583;2740;Leichter Regenschauer;20.5;88;83;19;10;0;6;15;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.08.2023 00:00;3146;1477;1669;Leichter Regenschauer;13.5;98;98;14;31.6;0;4;12;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.08.2023 00:00;3948;1927;2021;Leichter Regenschauer;12;97;79;12;28.4;0;6;11;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.08.2023 00:00;5168;2470;2698;Maeßiger Regenfall;10;98;99;10;14.5;0;3;9;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.08.2023 00:00;8917;4400;4517;Stellenweiser Regenfall;13.5;80;61;12;1.5;0;5;7;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+31.08.2023 00:00;8603;4170;4433;Leichter Regenschauer;13.5;78;57;14;1.2;0;7;7;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.09.2023 00:00;10409;5153;5256;Leicht bewoelkt;17;70;31;16;0;0;6;9;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.09.2023 00:00;8951;4249;4702;Leichter Nebel;19;75;6;18;0;0;5;11;27;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.09.2023 00:00;6797;3288;3509;Leichter Nebel;19;78;5;19;0;0;4;12;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.09.2023 00:00;10726;5169;5557;Sonnig;19;71;3;18;0;0;14;12;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.09.2023 00:00;11934;5801;6133;Sonnig;18;71;0;17;0;0;9;10;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.09.2023 00:00;12265;5926;6339;Leichter Nebel;18;79;4;17;0;0;6;10;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.09.2023 00:00;11780;5714;6066;Sonnig;19.5;76;1;19;0;0;4;11;28;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.09.2023 00:00;11807;5877;5930;Leichter Nebel;21.5;75;11;21;0;0;3;13;30;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.09.2023 00:00;11671;5157;6514;Leichter Nebel;22.5;74;12;21;0;0;2;15;30;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.09.2023 00:00;7442;3552;3890;Leichter Nebel;23;77;17;21;0;0;2;16;30;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.09.2023 00:00;13104;6400;6704;Sonnig;22;70;9;21;0;0;2;14;30;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.09.2023 00:00;13287;6491;6796;Stellenweise Gewitter und Niederschlaege;20.5;71;23;20;0;0;3;13;28;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.09.2023 00:00;10076;5001;5075;Nebel;16.5;94;69;16;0;0;5;14;19;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.09.2023 00:00;12158;5927;6231;Nebel;17;93;73;17;0;0;5;14;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.09.2023 00:00;12941;6384;6557;Leichter Nebel;17;80;24;17;0;0;5;10;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.09.2023 00:00;9931;4929;5002;Nebel;18.5;81;48;18;1.2;0;4;12;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.09.2023 00:00;7281;3463;3818;Leichter Nebel;19;79;18;18;0;0;4;12;26;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.09.2023 00:00;9783;4742;5041;Maeßiger Regenfall;18;91;70;16;13.6;0;5;13;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.09.2023 00:00;13162;6426;6736;Nebel;16;83;63;15;0.4;0;8;11;21;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.09.2023 00:00;13781;6735;7046;Sonnig;16.5;74;17;16;0;0;2;9;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.09.2023 00:00;13353;6414;6939;Leichter Nebel;17.5;77;32;17;1.4;0;4;11;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.09.2023 00:00;9338;4589;4749;Leichter Regenschauer;12.5;92;82;12;13;0;6;10;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.09.2023 00:00;8072;3911;4161;Stellenweiser Regenfall;12;75;64;11;0.4;0;5;7;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.09.2023 00:00;6506;3027;3479;Sonnig;12;72;6;11;0;0;8;5;19;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.09.2023 00:00;12197;5937;6260;Leichter Nebel;12;75;1;11;0;0;3;4;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.09.2023 00:00;12988;6356;6632;Leichter Nebel;14;74;4;13;0;0;2;6;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.09.2023 00:00;12703;6200;6503;Sonnig;15.5;73;17;14;0;0;3;8;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.09.2023 00:00;13233;6439;6794;Bedeckt;17;72;36;15;0;0;2;10;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.09.2023 00:00;12460;6166;6294;Leicht bewoelkt;17.5;74;20;16;0.3;0;5;10;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.09.2023 00:00;9116;4439;4677;Sonnig;16;76;7;15;0;0;3;10;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.10.2023 00:00;7116;3462;3654;Leichter Nebel;16.5;75;7;15;0;0;3;9;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.10.2023 00:00;12147;6002;6145;Sonnig;17.5;76;4;16;0;0;2;10;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.10.2023 00:00;6751;3251;3500;Leichter Regenschauer;18;76;34;17;1.4;0;10;11;25;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.10.2023 00:00;14223;6969;7254;Bedeckt;12.5;70;25;12;0;0;3;7;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.10.2023 00:00;13994;6883;7111;Leicht bewoelkt;12.5;70;38;12;0;0;3;6;19;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.10.2023 00:00;14241;7124;7117;Leicht bewoelkt;13;67;17;12;0;0;2;6;20;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.10.2023 00:00;9275;4406;4869;Sonnig;14;63;3;13;0;0;3;6;22;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.10.2023 00:00;8276;3993;4283;Leicht bewoelkt;16;61;16;15;0;0;3;9;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.10.2023 00:00;13352;6648;6704;Bewoelkt;16.5;73;26;15;0;0;3;9;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.10.2023 00:00;14577;7184;7393;Leicht bewoelkt;17;69;20;16;0;0;2;10;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.10.2023 00:00;14482;7262;7220;Sonnig;16.5;72;4;15;0;0;5;9;24;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.10.2023 00:00;14070;6936;7134;Bewoelkt;16;69;31;15;0;0;5;9;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.10.2023 00:00;13564;6657;6907;Sonnig;16.5;64;11;15;0;0;4;10;23;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.10.2023 00:00;6431;3164;3267;Leichter Regenschauer;13.5;80;77;13;3.1;0;11;9;18;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.10.2023 00:00;4810;2359;2451;Stellenweiser Regenfall;7.5;67;48;7;0.1;0;7;2;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.10.2023 00:00;12704;6299;6405;Bedeckt;6;69;41;3;0;0;10;0;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.10.2023 00:00;13208;6518;6690;Sonnig;7.5;76;10;5;0;0;6;0;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.10.2023 00:00;12556;6214;6342;Stellenweiser Nieselregen;8.5;75;49;8;0.4;0;5;3;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.10.2023 00:00;13163;6468;6695;Stellenweiser Regenfall;12.5;77;50;11;0.4;0;3;8;17;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.10.2023 00:00;10231;5053;5178;Nieselregen;11;90;72;10;1.8;0;7;8;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.10.2023 00:00;6333;3057;3276;Leichter Regenfall;10;89;77;9;3.6;0;7;7;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.10.2023 00:00;6098;3012;3086;Leichter Nebel;10;84;33;9;0;0;4;5;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.10.2023 00:00;12768;6455;6313;Leicht bewoelkt;10;79;17;9;0;0;5;4;16;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.10.2023 00:00;10296;5102;5194;Leichter Regenfall;8.5;92;66;7;3.9;0;6;5;12;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.10.2023 00:00;11571;5743;5828;Maeßiger bis starker Regen mit Gewitter;10.5;92;84;9;14.5;0;5;7;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.10.2023 00:00;10130;4978;5152;Maeßiger Regenfall;11.5;90;88;10;19.5;0;12;9;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.10.2023 00:00;10620;5262;5358;Stellenweiser Regenfall;9;90;87;7;7.4;0;13;7;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.10.2023 00:00;7837;3865;3972;Stellenweiser Nieselregen;9.5;85;46;7;2.4;0;10;5;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.10.2023 00:00;5404;2549;2855;Leicht bewoelkt;9.5;80;21;8;0;0;2;4;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.10.2023 00:00;9003;4545;4458;Leichter Regenfall;10;86;60;9;12.7;0;3;5;15;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+31.10.2023 00:00;9548;4886;4662;Leichter Regenschauer;8.5;90;88;6;6.2;0;17;7;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.11.2023 00:00;5584;2772;2812;Leichter Nebel;7;87;47;6;0;0;3;3;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.11.2023 00:00;6786;3362;3424;Maeßiger Regenfall;5.5;97;82;5;13.9;0;4;3;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.11.2023 00:00;8798;4468;4330;Stellenweiser Regenfall;5.5;86;72;3;0.3;0;10;3;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.11.2023 00:00;5816;2859;2957;Leichter Regenfall;4.5;88;74;3;8.5;0;6;0;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.11.2023 00:00;2744;1350;1394;Leichter Regenschauer;5.5;90;77;4;7.8;0;20;2;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.11.2023 00:00;13338;6782;6556;Nieselregen;8;84;69;6;1.3;0;14;5;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.11.2023 00:00;14045;7199;6846;Stellenweiser Regenfall;5.5;88;62;3;0.3;0;10;2;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.11.2023 00:00;14505;7348;7157;Leichter Nebel;5.5;85;33;3;0;0;5;1;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.11.2023 00:00;12787;6414;6373;Leichter Regenfall;4;84;57;2;1.9;0;7;-1;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.11.2023 00:00;11171;5750;5421;Maeßiger Regenfall;5;89;80;3;9.3;0;12;2;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.11.2023 00:00;7267;3691;3576;Leichter Regenschauer;3.5;91;76;1;3.1;0;15;1;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.11.2023 00:00;2681;1287;1394;Starker Schneefall;5.5;96;93;2;17.2;0;7;1;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.11.2023 00:00;9717;4881;4836;Leichter Regenfall;10.5;88;91;8;7.3;0;24;8;13;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.11.2023 00:00;9501;4752;4749;Leichter Regenschauer;12.5;90;95;10;28.5;0;23;11;14;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.11.2023 00:00;12422;6383;6039;Nieselregen;8;85;72;5;1.6;0;20;6;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.11.2023 00:00;11070;5585;5485;Nieselregen;6.5;86;71;5;0.8;0;12;2;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.11.2023 00:00;8947;4531;4416;Leichter Regenschauer;5.5;92;90;2;7.2;0;17;3;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.11.2023 00:00;6643;3389;3254;Nieselregen;3;91;64;3;3.1;0;4;0;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.11.2023 00:00;4135;1962;2173;Leichter Regenschauer;8.5;94;79;7;8.6;0;12;6;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.11.2023 00:00;12093;6173;5920;Stellenweiser Regenfall;7;86;54;5;0.2;0;14;4;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.11.2023 00:00;11743;5909;5834;Leichter Regenschauer;5.5;93;98;4;4.7;0;6;4;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.11.2023 00:00;11639;5928;5711;Stellenweiser Regenfall;3;88;86;2;0.2;0;9;1;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.11.2023 00:00;12087;6094;5993;Sonnig;3;85;14;1;0;0;4;-1;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.11.2023 00:00;9976;4994;4982;Nieselregen;3;90;74;0;2;0;15;0;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.11.2023 00:00;6178;3080;3098;Maeßige bis starke Schneefaelle;0.5;91;80;-3;1.8;0.4;12;-2;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.11.2023 00:00;3987;1910;2077;Maeßiger Schneefall;1.5;90;97;-1;0.6;0.1;9;0;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.11.2023 00:00;10384;5173;5211;Leichter Schneefall;1.5;92;94;-1;6.4;1;10;-1;4;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.11.2023 00:00;9977;5066;4911;Maeßige bis starke Schneefaelle;1.5;92;97;-1;6.6;0.7;14;-1;4;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.11.2023 00:00;11476;5719;5757;Leichter Eisregen;-0.5;84;56;-3;0.1;0;7;-3;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.11.2023 00:00;7727;3816;3911;Starker Schneefall;0;96;99;-1;21.2;4.2;3;-1;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+01.12.2023 00:00;6419;3172;3247;Starker Schneefall;1.5;100;100;1;25.3;3.2;2;0;3;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+02.12.2023 00:00;2095;1046;1049;Maeßige bis starke Schneefaelle;-8;98;92;-6;12.3;3.8;5;-16;0;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+03.12.2023 00:00;1422;704;718;Leichter Schneefall;-11;97;74;-15;0.2;0;3;-18;-4;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+04.12.2023 00:00;4446;2300;2146;Maeßiger Schneefall;-7;93;95;-7;0.5;0.1;2;-12;-2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+05.12.2023 00:00;4550;2186;2364;Maeßiger Schneefall;-2.5;93;79;-3;1.8;0.6;10;-7;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+06.12.2023 00:00;9382;4712;4670;Maeßige bis starke Schneefaelle;1;96;95;-1;2.3;0.7;10;0;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+07.12.2023 00:00;10009;4840;5169;Leichter Nebel;-2.5;94;48;-3;0.4;0.2;3;-6;1;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+08.12.2023 00:00;8882;4327;4555;Leichter Regenfall;-2;93;87;-1;5.4;0;4;-6;2;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+09.12.2023 00:00;5713;2741;2972;Nieselregen;4.5;97;98;2;10.7;0;7;2;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+10.12.2023 00:00;4028;1948;2080;Leichter Regenschauer;6;86;83;3;6.8;0;20;4;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+11.12.2023 00:00;8896;4440;4456;Maeßiger bis starker Regen mit Gewitter;7;92;96;5;49;0;10;5;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+12.12.2023 00:00;6730;3156;3574;Leichter Regenschauer;8;93;96;6;24;0;10;7;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+13.12.2023 00:00;7221;3452;3769;Leichter Regenschauer;6.5;90;93;5;13.3;0;10;4;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+14.12.2023 00:00;10339;4891;5448;Leichter Regenschauer;4.5;95;100;3;10;0;8;4;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+15.12.2023 00:00;10838;5172;5666;Stellenweiser Regenfall;3.5;87;82;3;2;0;4;2;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+16.12.2023 00:00;6977;3163;3814;Sonnig;2;81;16;1;0;0;4;-1;5;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+17.12.2023 00:00;3949;1761;2188;Sonnig;2.5;73;2;1;0;0;2;-1;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+18.12.2023 00:00;9818;4858;4960;Sonnig;3.5;78;2;2;0;0;2;0;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+19.12.2023 00:00;11246;5423;5823;Leicht bewoelkt;3.5;76;13;1;0;0;4;0;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+20.12.2023 00:00;10261;5007;5254;Leichter Regenfall;2;90;86;1;9.7;0;10;0;4;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+21.12.2023 00:00;8275;3883;4392;Leichter Regenfall;5.5;86;94;1;8.4;0;25;3;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+22.12.2023 00:00;5773;2768;3005;Leichter Regenschauer;6.5;89;98;1;17.9;0;31;5;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+23.12.2023 00:00;4036;1893;2143;Stellenweiser Regenfall;6.5;81;86;2;0.9;0;28;6;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+24.12.2023 00:00;1421;610;811;Stellenweiser Regenfall;6;74;30;3;0.1;0;16;4;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+25.12.2023 00:00;1468;715;753;Bedeckt;7.5;72;41;6;0;0;11;4;11;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+26.12.2023 00:00;1948;959;989;Bedeckt;6;72;53;4;0;0;10;4;8;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+27.12.2023 00:00;3953;1826;2127;Leicht bewoelkt;4.5;74;31;3;0;0;2;2;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+28.12.2023 00:00;4060;1900;2160;Bedeckt;3.5;66;48;3;0;0;5;1;6;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+29.12.2023 00:00;4965;2396;2569;Stellenweiser Regenfall;6.5;75;53;4;0;0;8;4;9;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+30.12.2023 00:00;4693;2179;2514;Stellenweiser Regenfall;6.5;84;34;5;0.2;0;6;3;10;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
+31.12.2023 00:00;2545;1241;1304;Leichter Eisregen;4;80;46;2;1.3;0;9;1;7;Stadt Konstanz, Amt fuer Stadtplanung und Umwelt
